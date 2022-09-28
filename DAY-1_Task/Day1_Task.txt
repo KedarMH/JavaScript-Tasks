@@ -1,0 +1,15 @@
+ 
+ Resources referred:
+
+1] Difference between Statically typed and Dynamically typed languages
+	 https://www.geeksforgeeks.org/what-is-a-typed-language/
+
+	 https://pythonistaplanet.com/difference-between-statically-and-dynamically-typed-languages/
+
+2] Scripting language vs programming language
+	 https://www.interviewbit.com/blog/scripting-language-vs-programming-language/
+
+	 https://byjus.com/gate/difference-between-scripting-and-programming-languages/
+	
+3] Programming Paradigm
+	 https://www.freecodecamp.org/news/what-exactly-is-a-programming-paradigm/
