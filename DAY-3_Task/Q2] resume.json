@@ -1,0 +1,50 @@
+// Create your own resume data in JSON format
+
+{
+   "personal info":[
+      {
+         "name":"KEDAR M H",
+         "email":"kedarmh19@gmail.com",
+         "phone":9019684949,
+         "degree":"B.E",
+         "location":{
+            "address":"1st main 2nd cross Vinobhanagar",
+            "postalCode":577006,
+            "city":"Davangere",
+            "state":"Karnataka",
+            "country":"India"
+         }
+      }
+   ],
+   "profiles":[
+      {
+         "linkedIn":"https://www.linkedin.com/in/kedarmh19/",
+         "github":"https://github.com/KedarMH"
+      }
+   ],
+   "education":[
+      {
+         "institution":"GM Institute of Engineering",
+         "department":"Mechanical Engineering",
+         "batch start year":2018,
+         "batch end year":2022,
+         "cgpa":8.9
+      }
+   ],
+   "skills":[
+      {
+         "tools":"HTML, CSS, Javascript, Java, Python",
+         "level":"beginner"
+      }
+   ],
+   "languages":[
+      {
+         "language":"Kannada, English, Hindi"
+      }
+   ],
+   "interests":[
+      {
+         "hobby":"Painting, Singing, Yoga"
+      }
+   ]
+}
