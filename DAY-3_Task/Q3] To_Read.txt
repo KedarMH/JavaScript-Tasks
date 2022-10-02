@@ -1,0 +1,7 @@
+Q] Read about the difference between window, screen and document in javascript.
+
+--> Resourses referred:
+
+        http://net-informations.com/js/iq/screen.htm
+        https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript
+        http://eligeske.com/jquery/what-is-the-difference-between-document-and-window-objects-2/
